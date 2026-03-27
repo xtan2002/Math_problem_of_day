@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.6.28)  24 MAR 2026 20:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.6.28)  27 MAR 2026 10:35
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -464,19 +464,20 @@ File: 公众号图片.jpg Graphic file (type bmp)
 <公众号图片.jpg>
 [1
 
-] (8下/1_二次根式.tex [1] [2] [3]) [4] (e:\Github\初中数学每日一题\废物文件\8年级下册每日亿题.aux)
+] (8下/1_二次根式.tex [1] [2] [3]) (8下/2_勾股定理.tex [4]) [5]
+(e:\Github\初中数学每日一题\废物文件\8年级下册每日亿题.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8741 strings out of 409617
- 239458 string characters out of 5779900
+ 8747 strings out of 409617
+ 239562 string characters out of 5779900
  1938191 words of memory out of 5000000
- 30739 multiletter control sequences out of 15000+600000
+ 30742 multiletter control sequences out of 15000+600000
  564669 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,6n,97p,405b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on e:\Github\初中数学每日一题\废物文件\8年级下册每日亿题.pdf (5 pages).
+Output written on e:\Github\初中数学每日一题\废物文件\8年级下册每日亿题.pdf (6 pages).
